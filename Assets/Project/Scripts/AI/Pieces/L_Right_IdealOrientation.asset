@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72678b6e8f6a411469edd47eeea27eff, type: 3}
+  m_Name: L_Right_IdealOrientation
+  m_EditorClassIdentifier: 
+  orientations: 00000000b40000005a0000000e010000
+  idealTopologies:
+  - topologySequences:
+    - sequence: 0100000001000000
+  - topologySequences:
+    - sequence: 0300000001000000
+  - topologySequences:
+    - sequence: 010000000100000001000000
+    - sequence: 010000000000000001000000
+  - topologySequences:
+    - sequence: 000000000100000001000000
